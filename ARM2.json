@@ -6,7 +6,7 @@
              {
 	   		"type": "Microsoft.Storage/storageAccounts",
 			"apiVersion": "2019-06-01",
-			"name": "[parameters('storageacc_name')]",
+			"name": "[parameters('storageAccountName')]",
 			"location": "eastus",     
 			"sku": {
 				"name": "Standard_LRS",
