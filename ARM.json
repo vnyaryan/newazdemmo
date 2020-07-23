@@ -5,8 +5,8 @@
         
 
 		 "storageacc_name": {
-          "type": "string"
-		  "defaultValue":"zxvcxz01"
+                     "type": "string" ,
+		     "defaultValue":"zxvcxz01"
         },
 		
 		
@@ -14,8 +14,8 @@
 		
 	
 	      "location": {
-            "type": "string",
-            "defaultValue": "[resourceGroup().location]"
+                      "type": "string",
+                     "defaultValue": "[resourceGroup().location]"
 		}
 	
 	},
