@@ -6,7 +6,7 @@
 
 		 "storageacc_name": {
                      "type": "string" ,
-		     "defaultValue":"zxvcxz01"
+		     "defaultValue": "zxvcxz01"
         },
 		
 		
