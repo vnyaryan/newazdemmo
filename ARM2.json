@@ -3,8 +3,8 @@
     "contentVersion": "1.0.0.0",
    "parameters": {
         
-	"storageAccountName": {
-                 "type": "string"
+          "storageAccountName": {
+            "type": "string"
 	}	
                  
     },
