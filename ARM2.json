@@ -5,6 +5,7 @@
         
 	"storageAccountName": {
                  "type": "string"
+	}	
                  
     },
    "resources": [
